@@ -1,0 +1,175 @@
+body{
+    background: url(background1.png);
+
+}
+#lead1{
+    background:url(design.jpg);
+    background-repeat:repeat-x;
+    height: 188px;
+    width: 1300px;
+    position: absolute;
+    top: 150px;
+    left: 0px;
+    margin-top: 0px;
+}
+#vl{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 80.5pc;
+    position:fixed;
+   
+}
+#vl1{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 74pc;
+    position:fixed;
+   
+}
+#vl2{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 65pc;
+    position:fixed;
+   
+}
+#vl3{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 56.5pc;
+    position:fixed;
+   
+}
+#vl4{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 48.5pc;
+    position:fixed;
+   
+}
+#vl5{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 39.9pc;
+    position:fixed;
+   
+}
+#vl6{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 32.9pc;
+    position:fixed;
+   
+}
+#vl7{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 25.2pc;
+    position:fixed;
+   
+}
+#vl8{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 17.9pc;
+    position:fixed;
+   
+}
+#vl9{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 10.8pc;
+    position:fixed;
+   
+}
+#vl10{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    left: 4pc;
+    position:fixed;
+   
+}
+#vl11{
+    margin-top: 3px;
+    background-color: silver;
+    width: 10px;
+    height: 11.4pc;
+    margin-left: 3px;
+    position:fixed;
+   
+}
+#str1{
+    z-index: 1;
+    
+    
+    top: 5px;
+    height: 3px;
+    width: 1292px;
+    position: absolute;
+    }
+    #str2{
+    z-index: 1;
+    
+    top: 38px;
+    height: 3px;
+    width: 1292px;
+    position: absolute;
+    }
+    #str3{
+        z-index: 1;
+    
+    
+    top: 72px;
+    height: 3px;
+    width: 1292px;
+    position: absolute;
+    }
+    #str4{
+        z-index: 1;
+     
+    
+    top: 105px;
+    height: 3px;
+    width: 1292px;
+    position: absolute;
+    }
+    #str5{
+        z-index: 1; 
+     
+    
+    top: 138px;
+    height: 3px;
+    width: 1292px;
+    position: absolute;
+    }
+    #str6{
+        z-index: 1;
+    
+    
+    top: 172px;
+    height: 3px;
+    width: 1292px;
+    position: absolute;
+    }
